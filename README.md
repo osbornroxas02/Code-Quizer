@@ -1,5 +1,5 @@
 # Code-Quizzer
-[![ReadMe Image](https://github.com/osbornroxas02/Code-Quizzer/blob/main/Screen%20Shot%202020-10-07%20at%201.07.40%20AM.png)
+[ReadMe Image](https://github.com/osbornroxas02/Code-Quizzer/blob/main/Screen%20Shot%202020-10-07%20at%201.07.40%20AM.png)
  
 ---
 
@@ -21,11 +21,11 @@ Coding assessments are an important part of the interview process for developers
 
 ## How To Use
 
-[![ReadMe Image](https://github.com/osbornroxas02/Code-Quizzer/blob/main/Screen%20Shot%202020-10-07%20at%201.07.51%20AM.png)
+[ReadMe Image](https://github.com/osbornroxas02/Code-Quizzer/blob/main/Screen%20Shot%202020-10-07%20at%201.07.51%20AM.png)
 
 Compile a set of study questions and enter them into your js file. Run the app and test your self. 
 
-[![ReadMe Image](https://github.com/osbornroxas02/Code-Quizzer/blob/main/Screen%20Shot%202020-10-07%20at%201.08.23%20AM.png)
+[ReadMe Image](https://github.com/osbornroxas02/Code-Quizzer/blob/main/Screen%20Shot%202020-10-07%20at%201.08.23%20AM.png)
 
 At teh end itll give you a score rating. Try it with friends to compare scores.
 
