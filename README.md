@@ -27,7 +27,7 @@ Compile a set of study questions and enter them into your js file. Run the app a
 
 ![ReadMe Image](https://github.com/osbornroxas02/Code-Quizzer/blob/main/Screen%20Shot%202020-10-07%20at%201.08.23%20AM.png)
 
-At teh end itll give you a score rating. Try it with friends to compare scores.
+At the end it'll give your a score rating. Try it with friends to compare scores.
 
 
 ---
