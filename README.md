@@ -6,7 +6,7 @@
 ## Table of Contents 
 
 | [Description](#description) |
-| [How To USe](#how-to-use)|
+| [How To Use](#how-to-use)|
 | [License](#license) |
 | [Author Info](#author-info) |
 
